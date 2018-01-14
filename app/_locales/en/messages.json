@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Goto GitHub Pages",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "An extension to add link in a GitHub repo page to access its GitHub pages directly.",
+    "description": "The description of the application"
+  }
+}
